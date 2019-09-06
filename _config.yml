@@ -3,7 +3,7 @@ permalink:           pretty
 
 # Setup
 title:               Dalya Blog
-tagline:             A Moderately Okay Data Science Blog
+tagline:             Data Scientist Blogs
 url:                 http://Daliait96.github.io
 paginate:            2
 baseurl:             ""
