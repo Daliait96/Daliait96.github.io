@@ -10,9 +10,6 @@ title: Work Stages
 
 -----
 
-![Image test]({{ site.url }}/images/dayofweek_outflow.png)
-
-
 ### Data acquisition
 
 We used the last week of May 2019 from MTA dataset in the analysis process.
