@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Example content
+title: URC 2018
 ---
 
 ## My participation in URC 2018:
@@ -10,7 +10,7 @@ I have participated with my graduation project in the Undergraduate Research Con
 
 ## My Graduation Project
 
-Dawa'ee : Medication Adherence Intelligent System
+Dawa'ee : Medication Adherence Intelligent Systems
 Sep 2017 – May 2018
 
 Project descriptionDawa'ee is a Medication Adherence Intelligent System. It is my graduation project supervised by the Head of Information Technology Department: Nora AlTwairesh.
@@ -20,7 +20,6 @@ Dawa'ee is an iOS mobile app can schedule the medicines automatically according 
 
 
 ![Image test]({{ site.url }}/images/IMG_5698.JPG)
-![Image test]({{ site.url }}/images/IMG_5751.JPG)
 ![Image test]({{ site.url }}/images/IMG_5768.JPG)
 ![Image test]({{ site.url }}/images/IMG_5780.JPG)
 
