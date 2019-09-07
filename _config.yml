@@ -34,5 +34,6 @@ gems:
 # Page List
 pages_list:       
   About: '/about'
-  Archive: '/archive'
   Data science Projects: '/index.html'
+  Archive: '/archive'
+  

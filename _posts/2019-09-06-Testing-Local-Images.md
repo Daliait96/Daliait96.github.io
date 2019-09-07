@@ -21,13 +21,7 @@ As we are a Data scientist team, we conducted an EDA on MTA data set to get insi
 
 We will help them to optimize the placement of their street teams by determining the busiest stations and times.
 
-![Image test]({{ site.url }}/images/dayofweek_outflow.png)
 
 
-### Work Stages:
-* Data acquisition.
-* Data Cleaning.
-* Data Processing.
-* Data visualization.
 
 
