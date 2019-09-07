@@ -12,8 +12,8 @@ The company responsible for organizing the gala want to place street teams at en
 
 ```
 ---
-layout: post
-title: Zach's Test Post
+Project Name: Analysis of MTA subway data for NYC
+Team: Data alliance for science.
 ---
 ```
 
