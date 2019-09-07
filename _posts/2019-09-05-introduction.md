@@ -48,6 +48,17 @@ Extract Top crowded ten stations and do the following:
 
 ![Image test]({{ site.url }}/images/station_outflow.png)
 
+### The Result:
+
+Stations:
+34-ST_PENN STA, GRD CNTRL, 34- ST HERALED, 14 ST_UNION, TIMES SW-42 ST.
+
+Day:
+Wednesday.
+
+Time:
+From 8:00 AM to 11:00 Am.
+
 
 
 
