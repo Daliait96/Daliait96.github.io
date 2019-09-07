@@ -25,7 +25,7 @@ markdown-y things.
 
 [This is a link](http://thisismetis.com)
 
-![Image test]({{ site.url }}/images/AlanLeeShireGandalf.JPG)
+![Image test]({{ site.url }}/images/dayofweek_outflow.png)
 
 ### Other things
 * Like
