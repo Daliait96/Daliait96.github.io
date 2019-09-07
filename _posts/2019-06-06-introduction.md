@@ -7,6 +7,7 @@ title: Work Stages
 * Data cleansing.
 * Data processing.
 * Data visualization.
+
 -----
 
 ![Image test]({{ site.url }}/images/dayofweek_outflow.png)
@@ -40,5 +41,27 @@ Extract Top crowded ten stations and do the following:
 * Set a limit for the entries and exits values.
 * Parse Date & Time columns to timestamp.
 
+### Data visualization
 
-Thanks!
+![Image test]({{ site.url }}/images/Top 10 stations.png)
+
+![Image test]({{ site.url }}/images/turnstiles.png)
+
+![Image test]({{ site.url }}/images/dayofweek_outflow.png)
+
+![Image test]({{ site.url }}/images/station_outflow.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
