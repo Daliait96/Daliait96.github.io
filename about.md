@@ -1,30 +1,29 @@
 ---
 layout: page
-title: About
+title: About Me
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+Hey there!
+
+Hope you enjoying when you reading my Blog!
 </p>
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+I am Dalya Abuhaimed, 23 years old, IT student graduated from King Saud University. I am interested in Data field that's why I choose Database management system as my track in university.
 
-There are currently two themes built on Poole:
+I am working as a Junior Database Administrator and Business intelligence. And I am a student in Data Science Bootcamp.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+You can contact me on:
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+* [Twitter](https://twitter.com/D_Abuhaimed)
+* [LinkedIn](https://www.linkedin.com/in/dalia-abuhaimed-344535162/)
 
-## Setup
 
-Some fun facts about the setup of this project include:
+## My Achievements
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+* Volunteer in King Saud university activities(108 Hours).
+* Participate in Undergraduate Research Conference on Applied Computing at Zayed University in Dubai(URC 2018).
+* Work with Data scientists team to analysis MTA dataset for the NYC subway.
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
 
 Thanks for reading!
