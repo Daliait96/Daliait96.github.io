@@ -23,7 +23,7 @@ You can contact me on:
 
 * Volunteer in King Saud university activities(108 Hours).
 * Participate in Undergraduate Research Conference on Applied Computing at Zayed University in Dubai(URC 2018).
-* Work with Data scientists team to analysis MTA dataset for the NYC subway.
+* Work in project with Data scientists team to analysis MTA dataset for the NYC subway.
 
 
 Thanks for reading!
