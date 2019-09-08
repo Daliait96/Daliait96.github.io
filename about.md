@@ -55,8 +55,7 @@ You can contact me on:
 * [Twitter](https://twitter.com/D_Abuhaimed)
 * [LinkedIn](https://www.linkedin.com/in/dalia-abuhaimed-344535162/)
 
-![Image test]({{ site.url }}/images/King saud univesity.png)
-![Image test]({{ site.url }}/images/thiqahCompany.png)
-![Image test]({{ site.url }}/images/metis-logo.png)
+![Image test]({{ site.url }}/images/download1.png)
+
 
 Thanks for reading!
