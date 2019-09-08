@@ -4,7 +4,7 @@ title: About Me
 ---
 
 <p class="message">
-Hey there!
+Hey there! <br>
 
 I Hope you enjoy when you reading my Blog!
 </p>
@@ -56,6 +56,9 @@ You can contact me on:
 * [LinkedIn](https://www.linkedin.com/in/dalia-abuhaimed-344535162/)
 
 ![Image test]({{ site.url }}/images/All.png)
+
+
+
 
 
 
