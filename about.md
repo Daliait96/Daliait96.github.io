@@ -4,7 +4,7 @@ title: About Me
 ---
 
 <p class="message">
-Hey there! <br>
+Hey there!  <br>
 
 I Hope you enjoy when you reading my Blog!
 </p>
@@ -22,19 +22,17 @@ Bachelor in Information Technology - Database Management System  |  2015 - 2018.
 
 ## Experience
 
-IT Trainee at King Saud University :
+
+* IT Trainee at King Saud University:
 Work with all departments in Systems and Information Management, Administration of King Saud University |  July 2017 - August 2017.
 
+* IT Intern at Thiqah Business Services Co:
+Work at Thiqah Business Services Co with both the Database team and Business Intelligence team  |  January -  June 2019.
 
-IT Intern at Thiqah Business Services Co:
-Work with both the Database team and Business Intelligence team  |  January 2019 - June 2019.
-
-
-Junior Database Administrator and Business intelligence:
+* Junior Database Administrator and Business intelligence:
 Work at Thiqah Business Services Co with both the Database team and Business Intelligence team  |  June 2019 -  present.
 
-
-Student in Data Science Bootcamp:
+* Student in Data Science Bootcamp:
 September   |  2019 -  present.
 
 ## volunteer work
