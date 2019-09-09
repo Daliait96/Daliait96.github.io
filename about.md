@@ -23,16 +23,16 @@ Bachelor in Information Technology - Database Management System  |  2015 - 2018.
 ## Experience
 
 
-* IT Trainee at King Saud University:
+* IT Trainee at King Saud University:<br>
 Work with all departments in Systems and Information Management, Administration of King Saud University |  July 2017 - August 2017.
 
-* IT Intern at Thiqah Business Services Co:
+* IT Intern at Thiqah Business Services Co:<br>
 Work at Thiqah Business Services Co with both the Database team and Business Intelligence team  |  January -  June 2019.
 
-* Junior Database Administrator and Business intelligence:
+* Junior Database Administrator and Business intelligence:<br>
 Work at Thiqah Business Services Co with both the Database team and Business Intelligence team  |  June 2019 -  present.
 
-* Student in Data Science Bootcamp:
+* Student in Data Science Bootcamp:<br>
 September   |  2019 -  present.
 
 ## volunteer work
