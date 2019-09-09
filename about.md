@@ -18,7 +18,7 @@ Like to learn more about new Technologies.
 
 ## Education
 
-Bachelor in Information Technology - Database Management System  |  2015 - 2018.
+Bachelor in Information Technology - Database Management System  |  2015 - 2018
 
 ## Experience
 
@@ -35,10 +35,10 @@ Work at Thiqah Business Services Co with both the Database team and Business Int
 * Student in Data Science Bootcamp:<br>
 September   |  2019 -  present.
 
-## volunteer work
+## Volunteer work
 
-* Organized "IT PROJECT FAIR" at King Saud University | 2016.
-* Activities Participation at King Saud University (108 Hours)  |  2015 - 2017.
+* Organized "IT PROJECT FAIR" at King Saud University | 2016
+* Activities Participation at King Saud University (108 Hours)  |  2015 - 2017
 
 ## My Achievements
 
