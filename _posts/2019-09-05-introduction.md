@@ -1,63 +1,102 @@
 ---
 layout: post
-title: Work Stages
+title: Project 2
+---
+Movies’ Rating Prediction
+
+### Introduction
+
+Predicting the ratings by using IMDb movies’ data , maybe can be useful for the first Saudi cinema company to know the approximate value of the rating for new movies. This will help them better attract more viewers.
+
 ---
 
-* Data acquisition.
-* Data cleansing.
-* Data processing.
-* Data visualization.
+### Methodoology
 
------
+Web scraping by using beautifulsoup4.
 
-### Data acquisition
+### Data set
 
-We used the last week of May 2019 from MTA dataset in the analysis process.
+Using IMDb movies’ data:
 
-* [MTA Dataset](http://web.mta.info/developers/turnstile.html)
+* Take Data for 1500 Movie.
+* 4 features: <br>
+Runtime (Numerical) , Gross (Numerical) , Genre (Categorical) , Votes (Numerical).
+
+### Distribution Of Rate Values
+
+![Image test]({{ site.url }}/images/target.png)
 
 
-### Data cleansing
+### Correlation Matrix
 
-* Strip White Spaces.
-* Make sure there are no NaN values.
-* Extract the actual from Entries and Exits values by replace the negative values by zero.
-* Set a limit for the entries and exits values.
-* Look for the most turnstile.
-* Look for the stations near the LAGUARDIA and JFK airports.
+![Image test]({{ site.url }}/images/Heat map.png)
 
-After extracting the most crowded stations the airport stations weren’t part of them.
 
-### Data processing
+### Model Selection Process
 
-Extract Top crowded ten stations and do the following:
+* Stage 1:<br>
 
-* Top five crowded station by number of exits.
-* Look for the most crowded day.
-* Look for the most crowded time.
-* Set a limit for the entries and exits values.
-* Parse Date & Time columns to timestamp.
+Baseline Model:𝑹^𝟐 = .3
 
-### Data visualization
+* Stage 2:<br>
 
-![Image test]({{ site.url }}/images/Top 10 stations.png)
+Features:
+Vote , Action,
+Thriller and log(Gross)
+𝑹^𝟐  = .42
 
-![Image test]({{ site.url }}/images/turnstiles.png)
+* Stage 3:<br>
 
-![Image test]({{ site.url }}/images/dayofweek_outflow.png)
+Features:
+Runtime,  Vote , Action, Comedy,
+Thriller and log(Gross)
 
-![Image test]({{ site.url }}/images/station_outflow.png)
+𝑹^𝟐  = .44
 
-### The Result:
+### Gross Transformation
 
-Stations:
-34-ST_PENN STA, GRD CNTRL, 34- ST HERALED, 14 ST_UNION, TIMES SW-42 ST.
+![Image test]({{ site.url }}/images/Gross1.png)
 
-Day:
-Wednesday.
+<br>
 
-Time:
-From 8:00 AM to 11:00 Am.
+![Image test]({{ site.url }}/images/Gross2.png)
+
+
+### Residual and q-q Plots
+
+![Image test]({{ site.url }}/images/R and qq plots.png)
+
+
+### Actual and predicted values
+
+
+![Image test]({{ site.url }}/images/actual and predicted values.png)
+
+
+### Conclusion
+
+Top Features:
+* Vote: is the most influential feature.
+* Comedy: has the most influence with a negative correlation.
+
+### Future Work
+
+* Add more observations to create a model that better generalize.
+* Extract Additional Features: <br>
+ Release Date.
+ The producer of the movie.
+ 
+ ### APPENDIX A: Number of the frequency of the movie genre
+
+![Image test]({{ site.url }}/images/movies genre.png)
+
+
+
+
+
+
+
+
 
 
 
