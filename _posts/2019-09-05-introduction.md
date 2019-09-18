@@ -86,9 +86,14 @@ Top Features:
  Release Date.
  The producer of the movie.
  
- ### APPENDIX A: Number of the frequency of the movie genre
+ ### Appendix 'A' Number of the frequency of the movie genre
 
 ![Image test]({{ site.url }}/images/movies genre.png)
+
+### Appendix 'B' OLS Regression Results
+
+![Image test]({{ site.url }}/images/OLS.png)
+
 
 
 
