@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Project 2
+title: Project Two
 ---
 Movies’ Rating Prediction
 
@@ -83,10 +83,11 @@ Top Features:
 
 * Add more observations to create a model that better generalize.
 * Extract Additional Features: <br>
- Release Date.
- The producer of the movie.
+ Release Date
+ The producer of the movie
  
- ### Appendix 'A' Number of the frequency of the movie genre
+
+###  Appendix 'A' Number of the frequency of the movie genre
 
 ![Image test]({{ site.url }}/images/movies genre.png)
 
