@@ -1,27 +1,18 @@
 ---
 layout: post
-title: URC 2018
+title: Project Three
 ---
+Bank Marketing Classification
 
-## My participation in URC 2018:
-April 2018
+### Introduction:
+Oct 2019
 
-I have participated with my graduation project in the Undergraduate Research Conference on Applied Computing at Zayed University in Dubai.
-
-## My Graduation Project
-
-Dawa'ee : Medication Adherence Intelligent Systems
-Sep 2017 – May 2018
-
-Project descriptionDawa'ee is a Medication Adherence Intelligent System. It is my graduation project supervised by the Head of Information Technology Department: Nora AlTwairesh.
+Nowadays, marketing spending in the banking industry is massive, meaning that it is essential for banks to optimize marketing strategies and improve effectiveness. Understanding customers’ need leads to more effective marketing plans, smarter product designs, and greater customer satisfaction. <br>
 
 
-Dawa'ee is an iOS mobile app can schedule the medicines automatically according to expert rules that are fed into the system along with a database of possible medications also, can schedule the medicines any time if the patient wants to take it in a specific time or in a specific period. The patient can scan the name of the medicine and save it, to avoid writing a wrong medicine name. Also, it is common that the patient could be visiting more than one healthcare provider at different hospitals or clinics; this raises another issue, which is the possibility of getting prescriptions for the same medication. This could happen because most medications have different commercial names while they are the same scientific name. Usually, patients are not sophisticated enough to notice this. That is why Dawa’ee also includes a medication duplication checker.
-
-
-![Image test]({{ site.url }}/images/IMG_5698.JPG)
-![Image test]({{ site.url }}/images/IMG_5768.JPG)
-![Image test]({{ site.url }}/images/IMG_5780.JPG)
+Main Objective: increase the effectiveness of the bank's telemarketing campaign
+This project will enable the bank to develop a more granular understanding of its customer base, predict customers' response to its telemarketing campaign and establish a target customer profile for future marketing plans.
+By analyzing customer features, such as demographics and transaction history, the bank will be able to predict customer saving behaviors and identify which type of customers is more likely to make term deposits. The bank can then focus its marketing efforts on those customers. This will not only allow the bank to secure deposits more effectively but also increase customer satisfaction by reducing undesirable advertisements for certain customers. <br>
 
 
 
