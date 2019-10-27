@@ -96,11 +96,11 @@ Sentiments Analysis for Second Cluster.<br>
 A word cloud is an image made of words that together resemble a cloudy shape.<br>
 The size of a word shows how important it is e.g. how often it appears in a text (its frequency).<br>
 
-#### Word Cloud for all Tweets
+#### Word Cloud for all Tweets <br>
 
 ![Image test]({{ site.url }}/images/WordCloud1.png) <br>
 
-#### Word Cloud for each Cluster
+#### Word Cloud for each Cluster <br>
 
 ![Image test]({{ site.url }}/images/AllClouds.png) <br>
 
