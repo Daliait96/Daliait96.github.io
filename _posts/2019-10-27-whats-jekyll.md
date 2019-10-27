@@ -70,7 +70,7 @@ The Technique used is Non-Negative Matrix Factorization (NMF).<br>
 
 Sentiment analysis is automated process to identify positive, negative and neutral emotions from text.<br>
 
-![Image test]({{ site.url }}/images/sentimentsAnalysis1.png) <br>
+![Image test]({{ site.url }}/images/sentimentsAnalysis1.png)
 
 ![Image test]({{ site.url }}/images/sentimentsAnalysis2.png) <br>
 
@@ -96,11 +96,11 @@ Sentiments Analysis for Second Cluster.<br>
 A word cloud is an image made of words that together resemble a cloudy shape.<br>
 The size of a word shows how important it is e.g. how often it appears in a text (its frequency).<br>
 
-#### Word Cloud for all Tweets <br>
+#### Word Cloud for all Tweets <br> <br>
 
 ![Image test]({{ site.url }}/images/WordCloud1.png) <br>
 
-#### Word Cloud for each Cluster <br>
+#### Word Cloud for each Cluster <br> <br>
 
 ![Image test]({{ site.url }}/images/AllClouds.png) <br>
 
