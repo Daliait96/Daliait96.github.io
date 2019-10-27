@@ -25,7 +25,7 @@ Sentiment Analysis is a technique widely used in text mining. Twitter Sentiment 
 * It is publicly available in the figure-eight platform.
 * It contains 40,000 records. <br>
 
-[Twitter tweets Dataset](https://www.figure-eight.com/data-for-everyone/)
+[Twitter Tweets Dataset](https://www.figure-eight.com/data-for-everyone/)
 
 ### Data preprocessing
 
