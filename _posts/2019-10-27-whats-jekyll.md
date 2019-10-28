@@ -72,7 +72,7 @@ Sentiment analysis is automated process to identify positive, negative and neutr
 
 ![Image test]({{ site.url }}/images/sentimentsAnalysis1.png)
 
-![Image test]({{ site.url }}/images/sentimentsAnalysis2.png) <br>
+![Image test]({{ site.url }}/images/SentimentsAnalysis2.png) <br>
 
 
 As shown from these visuals the positive tweets is higher compared to the others.
@@ -81,11 +81,11 @@ As shown from these visuals the positive tweets is higher compared to the others
 
 Sentiments Analysis for each Cluster.<br>
 
-![Image test]({{ site.url }}/images/sentimentsAnalysis3.png) <br>
+![Image test]({{ site.url }}/images/SentimentsAnalysis3.png) <br>
 
 Sentiments Analysis for Second Cluster.<br>
 
-![Image test]({{ site.url }}/images/sentimentsAnalysis4.png) <br>
+![Image test]({{ site.url }}/images/SentimentsAnalysis4.png) <br>
 
 
 
